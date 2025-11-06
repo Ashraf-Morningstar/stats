@@ -3,11 +3,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
     "repoViews": 129,
-    "linesOfCodeChanged": 437545,
-    "linesAdded": 148635,
-    "linesDeleted": 18032,
-    "linesChanged": 270878,
-    "totalCommits": 270885,
+    "linesOfCodeChanged": 437647,
+    "linesAdded": 148709,
+    "linesDeleted": 18057,
+    "linesChanged": 270881,
+    "totalCommits": 270888,
     "totalPullRequests": 0,
     "codeByteTotal": 6927164,
     "topLanguages": [
@@ -59,16 +59,16 @@
     ],
     "forkCount": 0,
     "starCount": 3,
-    "totalContributions": 272008,
+    "totalContributions": 272012,
     "contributionsCollection": {
-        "totalCommitContributions": 271976,
+        "totalCommitContributions": 271979,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 3,
-        "totalRepositoryContributions": 28,
+        "totalRepositoryContributions": 29,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272008,
+            "totalContributions": 272012,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3421,7 +3421,7 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1931,
+                            "contributionCount": 1935,
                             "date": "2025-11-06"
                         }
                     ]
@@ -3429,7 +3429,7 @@
             ]
         }
     },
-    "closedIssues": 0,
-    "openIssues": 3,
-    "fetchedAt": 1762432790691
+    "closedIssues": 1,
+    "openIssues": 2,
+    "fetchedAt": 1762434100650
 }
