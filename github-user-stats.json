@@ -2,15 +2,25 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 100,
-    "linesOfCodeChanged": 332905,
-    "linesAdded": 61774,
-    "linesDeleted": 258,
-    "linesChanged": 270873,
-    "totalCommits": 270880,
+    "repoViews": 129,
+    "linesOfCodeChanged": 437545,
+    "linesAdded": 148635,
+    "linesDeleted": 18032,
+    "linesChanged": 270878,
+    "totalCommits": 270885,
     "totalPullRequests": 0,
-    "codeByteTotal": 968719,
+    "codeByteTotal": 6927164,
     "topLanguages": [
+        {
+            "languageName": "JavaScript",
+            "color": "#f1e05a",
+            "value": 5359543
+        },
+        {
+            "languageName": "TypeScript",
+            "color": "#3178c6",
+            "value": 742530
+        },
         {
             "languageName": "Java",
             "color": "#b07219",
@@ -37,11 +47,6 @@
             "value": 136467
         },
         {
-            "languageName": "JavaScript",
-            "color": "#f1e05a",
-            "value": 71785
-        },
-        {
             "languageName": "Python",
             "color": "#3572A5",
             "value": 90028
@@ -50,25 +55,20 @@
             "languageName": "Cython",
             "color": "#fedf5b",
             "value": 781
-        },
-        {
-            "languageName": "TypeScript",
-            "color": "#3178c6",
-            "value": 71843
         }
     ],
     "forkCount": 0,
     "starCount": 3,
-    "totalContributions": 271998,
+    "totalContributions": 272008,
     "contributionsCollection": {
-        "totalCommitContributions": 271971,
+        "totalCommitContributions": 271976,
         "restrictedContributionsCount": 0,
-        "totalIssueContributions": 0,
-        "totalRepositoryContributions": 26,
+        "totalIssueContributions": 3,
+        "totalRepositoryContributions": 28,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 271998,
+            "totalContributions": 272008,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3421,7 +3421,7 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1921,
+                            "contributionCount": 1931,
                             "date": "2025-11-06"
                         }
                     ]
@@ -3430,6 +3430,6 @@
         }
     },
     "closedIssues": 0,
-    "openIssues": 0,
-    "fetchedAt": 1762413531073
+    "openIssues": 3,
+    "fetchedAt": 1762432790691
 }
