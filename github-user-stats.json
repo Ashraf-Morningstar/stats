@@ -2,24 +2,24 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 461,
-    "linesOfCodeChanged": 3632456,
-    "linesAdded": 3324447,
-    "linesDeleted": 36792,
-    "linesChanged": 271217,
-    "totalCommits": 271153,
+    "repoViews": 530,
+    "linesOfCodeChanged": 89350528,
+    "linesAdded": 89041799,
+    "linesDeleted": 37473,
+    "linesChanged": 271256,
+    "totalCommits": 271191,
     "totalPullRequests": 55,
-    "codeByteTotal": 23285077,
+    "codeByteTotal": 48537713,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 15145971
+            "value": 40567856
         },
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 2499770
+            "value": 2500503
         },
         {
             "languageName": "TypeScript",
@@ -39,12 +39,12 @@
         {
             "languageName": "Java",
             "color": "#b07219",
-            "value": 584977
+            "value": 585887
         },
         {
             "languageName": "Ruby",
             "color": "#701516",
-            "value": 565116
+            "value": 565567
         },
         {
             "languageName": "Objective-C",
@@ -52,14 +52,9 @@
             "value": 370982
         },
         {
-            "languageName": "Pascal",
-            "color": "#E3F171",
-            "value": 326498
-        },
-        {
-            "languageName": "Common Lisp",
-            "color": "#3fb68b",
-            "value": 325361
+            "languageName": "SCSS",
+            "color": "#c6538c",
+            "value": 150102
         },
         {
             "languageName": "Go",
@@ -67,14 +62,14 @@
             "value": 149138
         },
         {
-            "languageName": "Cython",
-            "color": "#fedf5b",
-            "value": 781
-        },
-        {
             "languageName": "Assembly",
             "color": "#6E4C13",
             "value": 387
+        },
+        {
+            "languageName": "Common Lisp",
+            "color": "#3fb68b",
+            "value": 162797
         },
         {
             "languageName": "Csound Document",
@@ -82,9 +77,14 @@
             "value": 193
         },
         {
-            "languageName": "xBase",
-            "color": "#403a40",
-            "value": 155
+            "languageName": "Batchfile",
+            "color": "#C1F12E",
+            "value": 5304
+        },
+        {
+            "languageName": "Pascal",
+            "color": "#E3F171",
+            "value": 163249
         },
         {
             "languageName": "Fortran",
@@ -93,17 +93,17 @@
         }
     ],
     "forkCount": 0,
-    "starCount": 15,
-    "totalContributions": 272336,
+    "starCount": 14,
+    "totalContributions": 272375,
     "contributionsCollection": {
-        "totalCommitContributions": 272212,
+        "totalCommitContributions": 272252,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 36,
-        "totalRepositoryContributions": 31,
+        "totalRepositoryContributions": 30,
         "totalPullRequestContributions": 55,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272336,
+            "totalContributions": 272375,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3456,7 +3456,7 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1964,
+                            "contributionCount": 1963,
                             "date": "2025-11-06"
                         },
                         {
@@ -3548,7 +3548,7 @@
                             "date": "2025-11-25"
                         },
                         {
-                            "contributionCount": 11,
+                            "contributionCount": 51,
                             "date": "2025-11-26"
                         }
                     ]
@@ -3558,5 +3558,5 @@
     },
     "closedIssues": 16,
     "openIssues": 20,
-    "fetchedAt": 1764160931204
+    "fetchedAt": 1764180295458
 }
