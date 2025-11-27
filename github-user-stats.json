@@ -2,14 +2,14 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 530,
-    "linesOfCodeChanged": 89350528,
-    "linesAdded": 89041799,
-    "linesDeleted": 37473,
-    "linesChanged": 271256,
-    "totalCommits": 271191,
-    "totalPullRequests": 55,
-    "codeByteTotal": 48537713,
+    "repoViews": 621,
+    "linesOfCodeChanged": 89353778,
+    "linesAdded": 89043330,
+    "linesDeleted": 38699,
+    "linesChanged": 271749,
+    "totalCommits": 272099,
+    "totalPullRequests": 77,
+    "codeByteTotal": 48548427,
     "topLanguages": [
         {
             "languageName": "JavaScript",
@@ -17,24 +17,14 @@
             "value": 40567856
         },
         {
-            "languageName": "Python",
-            "color": "#3572A5",
-            "value": 2500503
-        },
-        {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1893526
+            "value": 1904240
         },
         {
-            "languageName": "C++",
-            "color": "#f34b7d",
-            "value": 631629
-        },
-        {
-            "languageName": "Shell",
-            "color": "#89e051",
-            "value": 641323
+            "languageName": "SCSS",
+            "color": "#c6538c",
+            "value": 150102
         },
         {
             "languageName": "Java",
@@ -47,19 +37,29 @@
             "value": 565567
         },
         {
-            "languageName": "Objective-C",
-            "color": "#438eff",
-            "value": 370982
+            "languageName": "C++",
+            "color": "#f34b7d",
+            "value": 631629
         },
         {
-            "languageName": "SCSS",
-            "color": "#c6538c",
-            "value": 150102
+            "languageName": "Python",
+            "color": "#3572A5",
+            "value": 2500503
         },
         {
             "languageName": "Go",
             "color": "#00ADD8",
             "value": 149138
+        },
+        {
+            "languageName": "Shell",
+            "color": "#89e051",
+            "value": 641323
+        },
+        {
+            "languageName": "Objective-C",
+            "color": "#438eff",
+            "value": 370982
         },
         {
             "languageName": "Assembly",
@@ -93,17 +93,17 @@
         }
     ],
     "forkCount": 0,
-    "starCount": 14,
-    "totalContributions": 272375,
+    "starCount": 36,
+    "totalContributions": 272422,
     "contributionsCollection": {
-        "totalCommitContributions": 272252,
+        "totalCommitContributions": 272258,
         "restrictedContributionsCount": 0,
-        "totalIssueContributions": 36,
+        "totalIssueContributions": 55,
         "totalRepositoryContributions": 30,
-        "totalPullRequestContributions": 55,
+        "totalPullRequestContributions": 77,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272375,
+            "totalContributions": 272422,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3548,15 +3548,19 @@
                             "date": "2025-11-25"
                         },
                         {
-                            "contributionCount": 51,
+                            "contributionCount": 95,
                             "date": "2025-11-26"
+                        },
+                        {
+                            "contributionCount": 3,
+                            "date": "2025-11-27"
                         }
                     ]
                 }
             ]
         }
     },
-    "closedIssues": 16,
+    "closedIssues": 35,
     "openIssues": 20,
-    "fetchedAt": 1764180295458
+    "fetchedAt": 1764247307079
 }
